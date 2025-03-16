@@ -28,3 +28,9 @@ Halaman web ini adalah contoh proyek sederhana yang dibuat menggunakan HTML, CSS
    - Halaman web akan langsung ditampilkan tanpa perlu instalasi tambahan.
 
 ## Struktur Direktori
+```
+project/
+├── index.html       # File utama halaman web
+├── README.md        # Dokumentasi proyek
+└── LICENSE          # Lisensi proyek
+```
